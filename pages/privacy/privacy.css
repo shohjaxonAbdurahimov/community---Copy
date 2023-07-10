@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap);
+
+/* MAIN */
+
+.main {
+  width: 75.2rem;
+  height: 146rem;
+}
+.section-date {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.8rem;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5b5b5b;
+  margin-bottom: 2rem;
+}
+.section-info {
+  margin-bottom: 3rem;
+}
+.section-info-2 {
+  margin-bottom: 4rem;
+}
+p{
+  margin-bottom: 4rem;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 3rem;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #0d1317;
+  margin-bottom: 2rem;
+}
+.section2_paragraph {
+  margin-bottom: 3rem;
+}
+.section2_paragraph2 {
+  margin-bottom: 3rem;
+}
+.section3-paragraph {
+  height: 25.2rem;
+}
+
+/* FOOTER */
