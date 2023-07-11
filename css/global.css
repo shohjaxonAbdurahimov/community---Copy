@@ -139,10 +139,7 @@ img {
   align-items: center;
   gap: 3rem;
 }
-.sitenav {
-}
-.sitenav-item {
-}
+
 .header-top-btn {
   width: 17rem;
   height: 5rem;
@@ -193,10 +190,6 @@ img {
   display: flex;
   gap: 1.5rem;
   margin-bottom: 6rem;
-}
-.footer-item {
-}
-.footer-link {
 }
 .footer-nav {
   width: 9.2rem;
